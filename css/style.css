@@ -3,6 +3,8 @@
 @import url('./sections/header.css');
 @import url('./sections/hero.css');
 @import url('./sections/offert.css');
+@import url('./sections/steps.css');
+
 
 * {
   margin: 0;

@@ -1,6 +1,4 @@
 .offert {
-  max-width: 1120px;
-  margin: 0 auto;
   padding: 70px 0 110px 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
   border-top: 1px solid rgba(0, 0, 0, 0.05);
@@ -19,6 +17,8 @@
 .offert-container {
   display: flex;
   justify-content: space-between;
+  max-width: 1120px;
+  margin: 0 auto;
 }
 
 .offert-box {
@@ -47,7 +47,7 @@
   text-align: center;
   font-size: 14px;
   line-height: 20px;
-  font-variant: all-small-caps;
+  text-transform: uppercase;
   letter-spacing: 0.28px;
   max-width: 300px;
 }

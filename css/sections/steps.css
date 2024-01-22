@@ -79,7 +79,7 @@
   line-height: 124px;
   letter-spacing: 4.96px;
   position: absolute;
-  bottom: 0;
+  bottom: 8px;
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
